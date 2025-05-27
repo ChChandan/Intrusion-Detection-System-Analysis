@@ -1,7 +1,3 @@
-Great! Since your report contains helpful visuals like model architecture diagrams, outlier analysis plots, and ROC curves, we can integrate those into the `README.md` to enrich the explanation. Below is an updated version of your README that **references the images** (assumes you'll extract and upload them into a folder named `/images/` in your GitHub repo).
-
----
-
 # 🚨 Intrusion Detection System using Machine Learning
 
 This project presents the design and evaluation of a Machine Learning-based Intrusion Detection System (IDS) built using Python. It was completed as part of the *32130 Fundamentals of Data Analytics* course at UTS.
